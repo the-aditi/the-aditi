@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Aditi
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Aditi Kumari, FrontEnd Developer
+ 🌱 I’m currently learning Python & AI/ML
 - 😄 Pronouns: she/her
 
 <!---

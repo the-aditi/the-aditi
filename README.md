@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditi Kumari, FrontEnd Developer
- 🌱 I’m currently learning Python & AI/ML
+- 🌱 I’m currently learning Python & AI/ML
 - 😄 Pronouns: she/her
 
 <!---
